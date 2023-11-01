@@ -1,0 +1,14 @@
+{
+  "name": "emailsender",
+  "version": "1.0.0",
+  "description": "trying to send email using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman Pandey",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.7"
+  }
+}
